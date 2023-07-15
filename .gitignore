@@ -1,0 +1,21 @@
+# Secrets
+.env
+.dev.env
+
+# Program related
+process_pids/
+kernel_connection_file.json
+
+# Python stuff
+*.egg-info/
+venv
+__pycache__/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+dist/
+build/

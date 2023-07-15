@@ -1,9 +1,10 @@
-# Afrineuron-Code_Interpreter
-A simple way around to implement Chatgpt's Code_interpreter
+## Afrineuron Code-interpreter
  
 Check out our projects portifolio at https://afrineuron.com/
 
 An open source implementation of OpenAI's ChatGPT [Code interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter).
+
+Simply ask the OpenAI model to do something and it will generate & execute the code for you.
 
 
 ## Installation
@@ -46,6 +47,5 @@ You can use the `.env.example` in the repository (make sure you `git clone` the 
 
 ### Docker
 [localagi](https://github.com/localagi) took the effort of bundling the Python package in a Docker container. Check it out here: [gpt-code-ui-docker](https://github.com/localagi/gpt-code-ui-docker).
-
 
 
